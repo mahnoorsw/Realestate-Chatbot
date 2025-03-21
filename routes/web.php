@@ -1,7 +1,6 @@
 <?php
 
 use App\Http\Controllers\BotManController;
-use App\Http\Controllers\OpenAiController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -20,4 +19,3 @@ Route::get('/', function () {
 });
 
 Route::match(['get', 'post'], '/botman', [BotManController::class, 'handle']);
-

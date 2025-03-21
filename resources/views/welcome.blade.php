@@ -5,9 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>BotMan ChatBot</title>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/assets/css/chat.min.css">
-
+    <style>
+        header {
+            position: fixed;
+            top: 10px;
+            left: 20px;
+            z-index: 1000;
+        }
+        .logo img {
+            height: 90px;
+            width: auto;
+        }
+    </style>
 </head>
 <body>
+    <header>
+        <div class="logo">
+            <img src="{{ asset('images/realtyinterface_logo.png') }}" alt="ChatBot Logo">
+        </div>
+    </header>
 </body>
 
 <script>
@@ -17,9 +33,10 @@
         document.documentElement.style.background = "none";
 
         // Apply new background color
-        // document.body.style.backgroundColor = "#1791c8"; // Change this color as needed
-        document.body.style.background = "url('/images/background1.webp') no-repeat center center fixed";
-        document.body.style.backgroundSize = "cover";
+        document.body.style.background = "linear-gradient(to bottom, #408591 5%, #E5F3F8FF 95%)";
+        document.body.style.height = "100vh";
+        document.body.style.margin = "0";
+        document.body.style.padding = "0";
     });
 
     var botmanWidget = {
