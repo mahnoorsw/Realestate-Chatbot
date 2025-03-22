@@ -1,11 +1,3 @@
-Project Setup Guide
-Prerequisites
-PHP 8.2
-Laravel 10
-Node.js installed
-Composer installed globally
-
-
 **Project Setup Guide**
 
 **Prerequisites**
