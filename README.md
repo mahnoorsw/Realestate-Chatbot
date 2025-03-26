@@ -23,9 +23,9 @@ Composer installed globally
     `composer require botman/driver-web`
 
 ### 6. Copy .env.example to .env
-Linux/macOS:
-        `cp .env.example .env`
-Windows:
+#### Linux/macOS:
+    `cp .env.example .env`
+##### Windows:
         `copy .env.example .env`
 
 ### 7. Set Up Database
