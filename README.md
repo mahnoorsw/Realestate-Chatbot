@@ -18,7 +18,7 @@
 ### 4. Checkout to Branch 'main'
     git checkout main
 
-### 5. Install BotMan and Web Driver
+### 5. Install BotMan and its Web Driver
     composer require botman/botman
     composer require botman/driver-web
 
