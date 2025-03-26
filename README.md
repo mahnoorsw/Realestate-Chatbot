@@ -22,13 +22,13 @@ Composer installed globally
     `composer require botman/botman`
     `composer require botman/driver-web`
 
-### 6. Copy .env.example to .env
+6. Copy .env.example to .env
     Linux/macOS:
         `cp .env.example .env`
     Windows:
         `copy .env.example .env`
 
-### 7. Set Up Database
+7. Set Up Database
     Create a MySQL database and Update the .env file with the database credentials
         
 ### 8. Run Migrations and Seed Database
