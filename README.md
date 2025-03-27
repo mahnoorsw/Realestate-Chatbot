@@ -1,6 +1,6 @@
 # **Project Intoduction**
-### Its a chatbot for RealEstate Business
-### Used Botman in Laravel with trained Question Answers in DB.
+#### Its a chatbot for RealEstate Business
+#### Used Botman in Laravel with trained Question Answers in DB.
 
 # **Project Setup Guide**
 
@@ -22,25 +22,21 @@
 ### 4. Checkout to Branch 'main'
     git checkout main
 
-### 5. Install BotMan and its Web Driver
-    composer require botman/botman
-    composer require botman/driver-web
-
-### 6. Copy .env.example to .env
+### 5. Copy .env.example to .env
 #### Linux/macOS:
     cp .env.example .env
 ##### Windows:
     copy .env.example .env
 
-### 7. Set Up Database
+### 6. Set Up Database
 Create a MySQL database and Update the .env file with the database credentials
         
-### 8. Run Migrations and Seed Database
+### 7. Run Migrations and Seed Database
     php artisan migrate:fresh --seed
    
-### 9. Generate Application Key
+### 8. Generate Application Key
     php artisan key:generate
     
-### 10. Start the Local Server
+### 9. Start the Local Server
     php artisan serve
 
