@@ -1,6 +1,12 @@
 # **Project Intoduction**
-#### Its a chatbot for RealEstate Business
+#### Its a chatbot for RealEstate Business 
 #### Used Botman in Laravel with trained Question Answers in DB.
+#### Example Screenshots for this chabot
+
+![image](https://github.com/user-attachments/assets/9a0e337b-023f-40d2-9bfb-39f4a2c50b71)
+![image](https://github.com/user-attachments/assets/82c05715-d842-46b8-945c-02d0dbc682ac)
+![image](https://github.com/user-attachments/assets/eb200757-1126-4ef6-b0e2-412108d683a6)
+
 
 # **Project Setup Guide**
 
