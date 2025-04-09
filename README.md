@@ -3,9 +3,9 @@
 #### Used Botman in Laravel with trained Question Answers in DB.
 #### Example Screenshots for this chabot
 
-![image](https://github.com/user-attachments/assets/9a0e337b-023f-40d2-9bfb-39f4a2c50b71)
-![image](https://github.com/user-attachments/assets/82c05715-d842-46b8-945c-02d0dbc682ac)
-![image](https://github.com/user-attachments/assets/eb200757-1126-4ef6-b0e2-412108d683a6)
+![image](https://github.com/user-attachments/assets/e9a799bf-4e93-48a1-a501-df7aa10e6cb3)
+![image](https://github.com/user-attachments/assets/cb43842d-37cd-425b-bb2f-54c372abb8bf)
+![image](https://github.com/user-attachments/assets/36d1d54b-2296-4b83-9ce6-bf5d3750a3b5)
 
 
 # **Project Setup Guide**
