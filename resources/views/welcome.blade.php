@@ -40,8 +40,9 @@
     });
 
     var botmanWidget = {
-        aboutText: 'ChatBot',
-        introMessage: 'Hi, Welcome to ChatBot',
+        title: "Chat with Us",
+        aboutText: 'Let’s Talk',
+        introMessage: 'Hi, Welcome to Real Estate System',
     };
 </script>
 <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
